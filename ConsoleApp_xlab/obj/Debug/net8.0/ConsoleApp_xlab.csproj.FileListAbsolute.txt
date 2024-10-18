@@ -12,3 +12,4 @@ c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\re
 c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.pdb
 c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.genruntimeconfig.cache
 c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ref\ConsoleApp_xlab.dll
+c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.sourcelink.json

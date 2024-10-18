@@ -1,0 +1,6 @@
+public class MyList
+{
+    private int _array = new int[4];
+
+    public void Add(int item) {};
+}
