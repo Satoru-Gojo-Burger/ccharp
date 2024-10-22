@@ -13,3 +13,18 @@ c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\Co
 c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.genruntimeconfig.cache
 c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ref\ConsoleApp_xlab.dll
 c:\Users\user\Desktop\ccharp.console.project\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.sourcelink.json
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\bin\Debug\net8.0\ConsoleApp_xlab.exe
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\bin\Debug\net8.0\ConsoleApp_xlab.deps.json
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\bin\Debug\net8.0\ConsoleApp_xlab.runtimeconfig.json
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\bin\Debug\net8.0\ConsoleApp_xlab.dll
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\bin\Debug\net8.0\ConsoleApp_xlab.pdb
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.AssemblyInfoInputs.cache
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.AssemblyInfo.cs
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.csproj.CoreCompileInputs.cache
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.sourcelink.json
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.dll
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\refint\ConsoleApp_xlab.dll
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.pdb
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ConsoleApp_xlab.genruntimeconfig.cache
+c:\Users\RUSSKY BUBEN\Desktop\xlab\ccharp\ConsoleApp_xlab\obj\Debug\net8.0\ref\ConsoleApp_xlab.dll
