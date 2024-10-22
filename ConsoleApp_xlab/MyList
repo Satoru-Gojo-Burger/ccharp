@@ -9,7 +9,10 @@ public class MyList
         get { return _count; }
     }
 
-    public void Add(int item) {}
+    public void Add(int item) 
+    {
+        items.Add(item);
+    }
 
     public void Remove(int item) {}
 
