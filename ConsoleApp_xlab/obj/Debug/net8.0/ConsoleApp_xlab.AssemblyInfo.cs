@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp_xlab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8554fa4f12071c579833642b9a4e582199a7ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5db6b47961af029f1c4efab164da3e69a8e7260b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp_xlab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp_xlab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

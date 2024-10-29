@@ -1,7 +1,9 @@
-﻿internal class Program
+﻿namespace MyList{
+
+internal class Program
 {
     
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         MyList myList = new MyList();
         myList.Add(1);
@@ -19,4 +21,5 @@
         // Console.WriteLine($"list - {string.Join(", ", list)}");
     }
 
+}
 }

@@ -1,6 +1,8 @@
+namespace MyList{
+
 public class MyList
 {
-    private int _array = new int[4];
+    private int[] _array = new int[4];
 
     public int _count = 0;
 
@@ -23,4 +25,5 @@ public class MyList
     public void Clear() {}
 
     public string ToString() {}
+}
 }
